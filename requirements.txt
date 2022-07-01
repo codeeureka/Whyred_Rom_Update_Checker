@@ -1,0 +1,6 @@
+python3
+BeautifulSoup4
+bs4
+sqlalchemy
+pyTelegramBotAPI
+lxml
