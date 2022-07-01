@@ -1,1 +1,1 @@
-sudo python3 ./main.py --auto
+web: sudo python3 ./main.py --auto
